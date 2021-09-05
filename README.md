@@ -19,13 +19,13 @@
 
 ## ios
 
-<img src="ios/screenshot_1.png" width="200">   <img src="ios/screenshot_2.png" width="200">    <img src="ios/screenshot_3.png" width="200">
+<img src="ios/screenshot_1.PNG" width="200">   <img src="ios/screenshot_2.PNG" width="200">    <img src="ios/screenshot_3.PNG" width="200">
 
-<img src="ios/screenshot_4.png" width="200">   <img src="ios/screenshot_5.png" width="200">    <img src="ios/screenshot_6.png" width="200">
+<img src="ios/screenshot_4.PNG" width="200">   <img src="ios/screenshot_5.PNG" width="200">    <img src="ios/screenshot_6.PNG" width="200">
 
-<img src="ios/screenshot_7.png" width="200">   <img src="ios/screenshot_8.png" width="200">    <img src="ios/screenshot_9.png" width="200">
+<img src="ios/screenshot_7.PNG" width="200">   <img src="ios/screenshot_8.PNG" width="200">    <img src="ios/screenshot_9.PNG" width="200">
 
-<img src="ios/screenshot_10.png" width="200">   <img src="ios/screenshot_11.png" width="200">    <img src="ios/screenshot_12.png" width="200">
+<img src="ios/screenshot_10.PNG" width="200">   <img src="ios/screenshot_11.PNG" width="200">    <img src="ios/screenshot_12.PNG" width="200">
 
-<img src="ios/screenshot_13.png" width="200"> 
+<img src="ios/screenshot_13.PNG" width="200"> 
 
